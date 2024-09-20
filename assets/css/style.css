@@ -80,15 +80,6 @@ p {
     color: #ffffff;
 }
 
-section img {
-    max-height: 200px;
-}
-
-section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -107,6 +98,15 @@ section h2 {
     color: #ffffff;
 }
 
+section img {
+    max-height: 200px;
+}
+
+section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +118,9 @@ aside {
     background-color: #2589bd;
     margin-bottom: 32px;
     color: #ffffff;
+}
+aside p {
+    margin-bottom: 32px;
 }
 
 aside img {
