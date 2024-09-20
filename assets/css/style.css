@@ -7,23 +7,23 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*class removed when semantic element added*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*class removed when semantic element added*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*simplified*/
 .seo {
     color: #d9dcd6;
 }
-
+/*replaced div with nav*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,7 +31,7 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*condensed and class removed when semantic element added*/
 header nav ul li {
     list-style-type: none;
     display: inline-block;
@@ -54,7 +54,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*benefits classes removed when semantic aside element added. css also condensed*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -98,7 +98,7 @@ h3 {
     float: right;
     margin-left: 25px;
 }
-
+/*seo, orm, and smm classes removed when semantic section element added and css condensed*/
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -116,7 +116,7 @@ section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*footer class removed when semantic footer element added*/
 footer {
     padding: 30px;
     clear: both;
