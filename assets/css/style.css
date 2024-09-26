@@ -57,7 +57,7 @@ p {
 /*benefits classes removed when semantic aside element added. css also condensed*/
 aside {
     margin-right: 20px;
-    padding: 20px;
+    padding: 20px;  
     clear: both;
     float: right;
     width: 20%;
@@ -83,7 +83,7 @@ h3 {
     text-align: center;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
